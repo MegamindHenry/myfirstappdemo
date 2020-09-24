@@ -2,4 +2,5 @@ add
 commit
 push
 pull
+others
 other_comands
